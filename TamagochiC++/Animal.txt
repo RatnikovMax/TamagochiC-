@@ -1,0 +1,2 @@
+1 Dragon 50 50 50 50 Gluttonous
+2 Unicorn 50 50 50 50 Soft
